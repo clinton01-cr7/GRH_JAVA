@@ -1,9 +1,2 @@
-/**
- * 
- */
-/**
- * @author cmamb
- *
- */
-module GRH_JAVA {
+module com.Gestion {
 }
