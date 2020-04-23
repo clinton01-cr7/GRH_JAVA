@@ -1,3 +1,0 @@
-
-module GRH_JAVA {
-}
